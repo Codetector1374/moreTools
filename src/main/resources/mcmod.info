@@ -1,0 +1,11 @@
+[
+{
+  "modid": "moretools",
+  "name": "More Tools",
+  "description": "More Tools Add for Minecraft",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "authorList": ["Codetector"],
+  "dependencies": []
+}
+]
