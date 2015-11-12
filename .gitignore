@@ -1,5 +1,5 @@
 /build
 /build/*
-/forge.iml
+/*.iml
 /.idea
 /.idea/*
