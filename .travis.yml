@@ -1,2 +1,2 @@
 language: java
-script: ./gradlew clean build jar
+script: chmod a+x gradlew && ./gradlew clean build jar
